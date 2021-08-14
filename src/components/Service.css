@@ -1,0 +1,27 @@
+
+
+.service {
+    height: 600px;
+    width: 100%;
+}
+
+
+.title{
+    align-content: center;
+    font-family: 'Roboto',sans-serif;
+    font-weight: bold;
+    font-size: 3.5em;
+}
+
+.btn{
+    align-items: center;
+    margin-top: 40px;
+}
+
+.service-btn {
+    width: 150px;
+}
+
+.seo-image{
+    margin-top: 40px;
+}

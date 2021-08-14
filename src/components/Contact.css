@@ -1,0 +1,75 @@
+.page{
+    width: 100%;
+    height: 600px;
+    background-color: #F8F9Fa;
+}
+.contact-page{
+    width: 600px;
+    margin-left: 100px;
+}
+
+
+.title{
+    /* float: left; */
+    /* margin-left: 20px; */
+}
+
+.title h1 {
+    font-weight: bold;
+    font-size: 1em;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+.title-input{
+/* float: left; */
+margin-right: 450px;
+}
+
+.title-input span {
+    color:#727272;
+    font-size: 20px;
+    font-family: 'Roboto',sans-serif;
+}
+
+.contact-input {
+
+}
+
+.input-label{
+    margin-right: 120px;
+}
+
+.first-label{
+    margin-right: 240px;
+}
+
+.email-input{
+    margin-right: 450px;
+}
+
+.email-input span {
+    color: #727272;
+    font-size: 20px;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+.message-input{
+    margin-right: 300px;
+}
+
+.message-input span{
+    color: #727272;
+    font-size: 20px;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+.btn-submit{
+    width: 100px;
+    margin-left: 10px;
+}
+.service-btn{
+    color: white;
+}

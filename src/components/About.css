@@ -1,0 +1,35 @@
+.About {
+    height: 500px;
+    width: 100%;
+    background-color: #F8F9FA;
+    margin-top: 50px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-evenly;
+    padding : 25px;
+
+}
+
+.About-logo {
+    margin-right: 20px;
+}
+
+.title {
+    margin-top: 50px;
+    margin-right: 250px;
+    /* align-items: center; */
+}
+
+
+
+
+.paragraph{
+    text-align: justify;
+    /* align-items: center; */
+    width: 350px;
+    padding: auto;
+    font-weight: 500;
+  
+}
